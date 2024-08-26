@@ -9,13 +9,16 @@ body {
 	padding: 0;
 	margin: 0;
 	user-select: none;
-	background-color: Pink;
+	background-color: black;
 }
 canvas {
 	transition: background 2s;
 	width: 100vw;
 	height: 100vh;
 	cursor: pointer;
+}
+h1{
+	color: pink;
 }
 .title {
 	position: absolute;

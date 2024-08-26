@@ -9,7 +9,7 @@ body {
 	padding: 0;
 	margin: 0;
 	user-select: none;
-	background-color: #105637;
+	background-color: Pink;
 }
 canvas {
 	transition: background 2s;

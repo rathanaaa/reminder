@@ -9,7 +9,7 @@ body {
 	padding: 0;
 	margin: 0;
 	user-select: none;
-	background: black;
+	background-img: IMG_2381.jpeg;
 }
 canvas {
 	transition: background 2s;

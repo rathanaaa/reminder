@@ -9,7 +9,7 @@ body {
 	padding: 0;
 	margin: 0;
 	user-select: none;
-	background-url: https://www.imghippo.com/i/UYTyF1724646151.jpg;
+	background: black;
 }
 canvas {
 	transition: background 2s;

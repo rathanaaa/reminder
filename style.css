@@ -40,7 +40,7 @@ canvas {
 	transform: translate(-50%, -70%);
 	text-align: justify;
 	width: 90%;
-	color: white;
+	color: pink;
 }
 #countdown-box:after {
 	display: inline-block;

@@ -17,10 +17,9 @@ canvas {
 	height: 100vh;
 	cursor: pointer;
 }
-h1{
-	color: pink;
-}
+
 .title {
+	color: rgb(14, 14, 14);
 	position: absolute;
 	top: 30%;
 	left: 50%;
@@ -29,6 +28,10 @@ h1{
 	padding: 0;
 	margin: 0;
 }
+.title:hover{
+    color: rgb(202, 61, 153);
+}
+
 #countdown-box {
 	z-index: 1;
 	position: absolute;
@@ -70,4 +73,10 @@ h1{
 	.cdi-lbl {
 		color: #f5f5f5;
 	}
+.run-letter{
+    color: rgb(24, 24, 24);
+}
+.run-letter:hover{
+    color: white;
+}
 }

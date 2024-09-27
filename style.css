@@ -73,10 +73,5 @@ canvas {
 	.cdi-lbl {
 		color: #f5f5f5;
 	}
-.run-letter{
-    color: rgb(24, 24, 24);
-}
-.run-letter:hover{
-    color: white;
-}
+
 }

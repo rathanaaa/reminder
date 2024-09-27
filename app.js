@@ -1,5 +1,5 @@
 // Set date
-var countdownDate = new Date("October 8, 2024 00:00:00").getTime(); // hrs: min: sec
+var countdownDate = new Date("January 1, 2025 00:00:00").getTime(); // hrs: min: sec
 
 // Update the countdown every 1 second
 var x = setInterval(function () {

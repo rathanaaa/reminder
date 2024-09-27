@@ -1,5 +1,5 @@
 // Set date
-var countdownDate = new Date("October 8, 202 00:00:00").getTime(); // hrs: min: sec
+var countdownDate = new Date("October 8, 2024 00:00:00").getTime(); // hrs: min: sec
 
 // Update the countdown every 1 second
 var x = setInterval(function () {
@@ -25,7 +25,7 @@ var x = setInterval(function () {
     if (distance < 0) {
         clearInterval(x);
         document.getElementById("countdown-box").innerHTML =
-            "<span class='cdi'>Happy New Year!!</span>";
+            "<span class='cdi'>It's TIME lezgoo!!</span>";
         document.querySelector(".title").innerText = "";
     }
 }, 1000);

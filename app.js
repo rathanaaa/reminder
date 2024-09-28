@@ -28,7 +28,7 @@ var x = setInterval(function () {
 	if (distance < 0) {
 		clearInterval(x);
 		document.getElementById("countdown-box").innerHTML =
-			"<span class='cdi'>Happy New Year!!</span>";
+			"<span class='cdi'>It's TIMEEEE Lezgooooo💕!!</span>";
 		document.querySelector(".title").innerText = "";
 	}
 }, 1000);
